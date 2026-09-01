@@ -1,0 +1,1 @@
+No Content: https://charlycheb2.github.io/src/input/gamepad/includeGamepadSVG.js
